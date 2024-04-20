@@ -85,7 +85,7 @@ pipeline{
                             nexusUrl: '3.111.47.12:8081', 
                             nexusVersion: 'nexus3', 
                             protocol: 'http', 
-                            repository: 'demoapp-release', 
+                            repository: 'maven-demo-releases', 
                             version: '1.0.0'
                     }
                 }
